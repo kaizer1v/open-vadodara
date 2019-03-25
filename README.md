@@ -7,6 +7,9 @@ Here are some of the links that are intended to be made available publicly.
 
 - [Vadodara Municipal Corporation](https://vmc.gov.in/)
 - [Gujarat RTO](http://rtogujarat.gov.in/)
+- [Gujarat Assembly](http://www.gujaratassembly.gov.in/epvadodara.htm)
+- [Vadodara City Police](https://cpvadodara.gujarat.gov.in/cpvadodara/default.aspx)
+- [Radio Stations in Gujarat](https://www.asiawaves.net/india/gujarat-radio.htm)
 
 ## Resources
 
