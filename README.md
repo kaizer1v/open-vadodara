@@ -18,3 +18,4 @@ Some already existing attempts to make data available publicly.
 - [Open City](http://opencity.in/) - A very popular initiative undertaken by S Anand (Gramener) and Thejesh, from Bangalore
 - [Digital Gujarat](https://www.digitalgujarat.gov.in/)
 - [Vadodara Cencus Data](https://www.census2011.co.in/census/district/200-vadodara.html) which also consists of [some urban region data](https://www.census2011.co.in/census/metropolitan/277-vadodara.html)
+- [Knoema Vadodara District Data](https://knoema.com/atlas/India/Vadodara-District)
