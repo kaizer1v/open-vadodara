@@ -26,7 +26,7 @@ Some already existing attempts to make data available publicly.
 - [Knoema Vadodara District Data](https://knoema.com/atlas/India/Vadodara-District)
 - [Ahmedabad Ward Map](http://projects.datameet.org/Municipal_Spatial_Data/ahmedabad/#supporting-documents)
 - [District Maps](https://github.com/datameet/maps)
-
+- [Indikosh website](https://indikosh.com/dist/547089/vadodara)
 - [Vadodara District on Wikipedia](https://en.wikipedia.org/wiki/Vadodara_district)
 
 Here are some of the links that are intended to be made available publicly.
