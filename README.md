@@ -42,6 +42,7 @@ Here are some of the links that are intended to be made available publicly.
 - [Revenue Dept, Govt of Guj Files](https://anyror.gujarat.gov.in/Info712Page.aspx)
 - [Collectrate - Vadodara District Website](https://vadodara.gujarat.gov.in/home)
 
+- [Understanding d3geojson file](https://www.d3indepth.com/geographic/)
 
 ## Possibilities with data
 
