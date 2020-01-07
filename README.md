@@ -27,6 +27,8 @@ Some already existing attempts to make data available publicly.
 - [Ahmedabad Ward Map](http://projects.datameet.org/Municipal_Spatial_Data/ahmedabad/#supporting-documents)
 - [District Maps](https://github.com/datameet/maps)
 
+- [Vadodara District on Wikipedia](https://en.wikipedia.org/wiki/Vadodara_district)
+
 Here are some of the links that are intended to be made available publicly.
 
 - [Vadodara Municipal Corporation](https://vmc.gov.in/)
@@ -39,3 +41,8 @@ Here are some of the links that are intended to be made available publicly.
 - [Revenue Dept, Vadodara Map](https://revenuedepartment.gujarat.gov.in/gujarat-jantari)
 - [Revenue Dept, Govt of Guj Files](https://anyror.gujarat.gov.in/Info712Page.aspx)
 - [Collectrate - Vadodara District Website](https://vadodara.gujarat.gov.in/home)
+
+
+## Possibilities with data
+
+- [Data like](http://opencity.in/data/bbmp-wards)
