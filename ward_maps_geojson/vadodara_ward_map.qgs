@@ -1,0 +1,2360 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.10.1-A Coruña" projectname="">
+  <homePath path=""/>
+  <title></title>
+  <autotransaction active="0"/>
+  <evaluateDefaultValues active="0"/>
+  <trust active="0"/>
+  <projectCrs>
+    <spatialrefsys>
+      <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+      <srsid>3452</srsid>
+      <srid>4326</srid>
+      <authid>EPSG:4326</authid>
+      <description>WGS 84</description>
+      <projectionacronym>longlat</projectionacronym>
+      <ellipsoidacronym>WGS84</ellipsoidacronym>
+      <geographicflag>true</geographicflag>
+    </spatialrefsys>
+  </projectCrs>
+  <layer-tree-group>
+    <customproperties/>
+    <layer-tree-layer id="ward_09_248eebe1_eea1_4724_a097_e198dbc8760a" checked="Qt::Checked" expanded="1" source="./ward_09.geojson|layername=ward_09" providerKey="ogr" name="ward_09">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer id="ward_10_777a4802_77b4_4994_9513_ab2e19d132f7" checked="Qt::Checked" expanded="1" source="./ward_10.geojson|layername=ward_10" providerKey="ogr" name="ward_10">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer id="ward_12_5fc434b5_eaf8_4e51_99b8_690e80996d42" checked="Qt::Checked" expanded="1" source="./ward_12.geojson|layername=ward_12" providerKey="ogr" name="ward_12">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer id="ward_02_3b2961b0_58da_446f_8e58_617ccd55d9bc" checked="Qt::Checked" expanded="1" source="./ward_02.geojson|layername=ward_02" providerKey="ogr" name="ward_02">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer id="ward_03_351d1e50_f756_49d4_89bd_b9768bd68a60" checked="Qt::Checked" expanded="1" source="./ward_03.geojson|layername=ward_03" providerKey="ogr" name="ward_03">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer id="ward_01_c6aad25a_ec87_4599_9ae8_3e8205793d75" checked="Qt::Checked" expanded="1" source="./ward_01.geojson|layername=ward_01" providerKey="ogr" name="ward_01">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer id="ward_08_6e112f71_f87f_42a1_9b67_cb0c43766240" checked="Qt::Checked" expanded="1" source="./ward_08.geojson|layername=ward_08" providerKey="ogr" name="ward_08">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer id="ward_05_bbe2d82a_8f06_4e53_9281_670e77768b4a" checked="Qt::Checked" expanded="1" source="./ward_05.geojson|layername=ward_05" providerKey="ogr" name="ward_05">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer id="ward_04_433cdbcd_1c5e_4855_8bba_fdc8bb909870" checked="Qt::Checked" expanded="1" source="./ward_04.geojson|layername=ward_04" providerKey="ogr" name="ward_04">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer id="ward_06_dc33fe27_3594_4328_a0a1_bd39b58e3852" checked="Qt::Checked" expanded="1" source="./ward_06.geojson|layername=ward_06" providerKey="ogr" name="ward_06">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer id="ward_07_new_9d8c7a9c_d1b1_4bed_bfa2_5e43ce45842b" checked="Qt::Checked" expanded="1" source="./ward_07_new.geojson|layername=ward_07_new" providerKey="ogr" name="ward_07_new">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer id="ward_11_0919c20a_9b69_4bc0_bb50_b9b513e4d03b" checked="Qt::Checked" expanded="1" source="./ward_11.geojson|layername=ward_11" providerKey="ogr" name="ward_11">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer id="OpenStreetMap_71ab80db_2890_4ad9_92c8_ce990fca0191" checked="Qt::Checked" expanded="1" source="crs=EPSG:3857&amp;format&amp;type=xyz&amp;url=https://tile.openstreetmap.org/%7Bz%7D/%7Bx%7D/%7By%7D.png&amp;zmax=19&amp;zmin=0" providerKey="wms" name="OpenStreetMap">
+      <customproperties/>
+    </layer-tree-layer>
+    <custom-order enabled="0">
+      <item>OpenStreetMap_71ab80db_2890_4ad9_92c8_ce990fca0191</item>
+      <item>ward_09_248eebe1_eea1_4724_a097_e198dbc8760a</item>
+      <item>ward_10_777a4802_77b4_4994_9513_ab2e19d132f7</item>
+      <item>ward_12_5fc434b5_eaf8_4e51_99b8_690e80996d42</item>
+      <item>ward_02_3b2961b0_58da_446f_8e58_617ccd55d9bc</item>
+      <item>ward_03_351d1e50_f756_49d4_89bd_b9768bd68a60</item>
+      <item>ward_01_c6aad25a_ec87_4599_9ae8_3e8205793d75</item>
+      <item>ward_08_6e112f71_f87f_42a1_9b67_cb0c43766240</item>
+      <item>ward_05_bbe2d82a_8f06_4e53_9281_670e77768b4a</item>
+      <item>ward_04_433cdbcd_1c5e_4855_8bba_fdc8bb909870</item>
+      <item>ward_06_dc33fe27_3594_4328_a0a1_bd39b58e3852</item>
+      <item>ward_11_0919c20a_9b69_4bc0_bb50_b9b513e4d03b</item>
+      <item>ward_07_new_9d8c7a9c_d1b1_4bed_bfa2_5e43ce45842b</item>
+    </custom-order>
+  </layer-tree-group>
+  <snapping-settings unit="1" enabled="0" intersection-snapping="0" type="1" tolerance="12" mode="2">
+    <individual-layer-settings>
+      <layer-setting units="1" id="ward_01_c6aad25a_ec87_4599_9ae8_3e8205793d75" enabled="0" type="1" tolerance="12"/>
+      <layer-setting units="1" id="ward_06_dc33fe27_3594_4328_a0a1_bd39b58e3852" enabled="0" type="1" tolerance="12"/>
+      <layer-setting units="1" id="ward_07_new_9d8c7a9c_d1b1_4bed_bfa2_5e43ce45842b" enabled="0" type="1" tolerance="12"/>
+      <layer-setting units="1" id="ward_10_777a4802_77b4_4994_9513_ab2e19d132f7" enabled="0" type="1" tolerance="12"/>
+      <layer-setting units="1" id="ward_11_0919c20a_9b69_4bc0_bb50_b9b513e4d03b" enabled="0" type="1" tolerance="12"/>
+      <layer-setting units="1" id="ward_12_5fc434b5_eaf8_4e51_99b8_690e80996d42" enabled="0" type="1" tolerance="12"/>
+      <layer-setting units="1" id="ward_09_248eebe1_eea1_4724_a097_e198dbc8760a" enabled="0" type="1" tolerance="12"/>
+      <layer-setting units="1" id="ward_04_433cdbcd_1c5e_4855_8bba_fdc8bb909870" enabled="0" type="1" tolerance="12"/>
+      <layer-setting units="1" id="ward_02_3b2961b0_58da_446f_8e58_617ccd55d9bc" enabled="0" type="1" tolerance="12"/>
+      <layer-setting units="1" id="ward_08_6e112f71_f87f_42a1_9b67_cb0c43766240" enabled="0" type="1" tolerance="12"/>
+      <layer-setting units="1" id="ward_03_351d1e50_f756_49d4_89bd_b9768bd68a60" enabled="0" type="1" tolerance="12"/>
+      <layer-setting units="1" id="ward_05_bbe2d82a_8f06_4e53_9281_670e77768b4a" enabled="0" type="1" tolerance="12"/>
+    </individual-layer-settings>
+  </snapping-settings>
+  <relations/>
+  <mapcanvas name="theMapCanvas" annotationsVisible="1">
+    <units>degrees</units>
+    <extent>
+      <xmin>73.1767731141576121</xmin>
+      <ymin>22.30627300453701167</ymin>
+      <xmax>73.22151570086631978</xmax>
+      <ymax>22.32785267245284189</ymax>
+    </extent>
+    <rotation>0</rotation>
+    <destinationsrs>
+      <spatialrefsys>
+        <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+        <srsid>3452</srsid>
+        <srid>4326</srid>
+        <authid>EPSG:4326</authid>
+        <description>WGS 84</description>
+        <projectionacronym>longlat</projectionacronym>
+        <ellipsoidacronym>WGS84</ellipsoidacronym>
+        <geographicflag>true</geographicflag>
+      </spatialrefsys>
+    </destinationsrs>
+    <rendermaptile>0</rendermaptile>
+    <expressionContextScope/>
+  </mapcanvas>
+  <projectModels/>
+  <legend updateDrawingOrder="true">
+    <legendlayer checked="Qt::Checked" drawingOrder="-1" name="ward_09" open="true" showFeatureCount="0">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile visible="1" layerid="ward_09_248eebe1_eea1_4724_a097_e198dbc8760a" isInOverview="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer checked="Qt::Checked" drawingOrder="-1" name="ward_10" open="true" showFeatureCount="0">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile visible="1" layerid="ward_10_777a4802_77b4_4994_9513_ab2e19d132f7" isInOverview="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer checked="Qt::Checked" drawingOrder="-1" name="ward_12" open="true" showFeatureCount="0">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile visible="1" layerid="ward_12_5fc434b5_eaf8_4e51_99b8_690e80996d42" isInOverview="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer checked="Qt::Checked" drawingOrder="-1" name="ward_02" open="true" showFeatureCount="0">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile visible="1" layerid="ward_02_3b2961b0_58da_446f_8e58_617ccd55d9bc" isInOverview="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer checked="Qt::Checked" drawingOrder="-1" name="ward_03" open="true" showFeatureCount="0">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile visible="1" layerid="ward_03_351d1e50_f756_49d4_89bd_b9768bd68a60" isInOverview="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer checked="Qt::Checked" drawingOrder="-1" name="ward_01" open="true" showFeatureCount="0">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile visible="1" layerid="ward_01_c6aad25a_ec87_4599_9ae8_3e8205793d75" isInOverview="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer checked="Qt::Checked" drawingOrder="-1" name="ward_08" open="true" showFeatureCount="0">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile visible="1" layerid="ward_08_6e112f71_f87f_42a1_9b67_cb0c43766240" isInOverview="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer checked="Qt::Checked" drawingOrder="-1" name="ward_05" open="true" showFeatureCount="0">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile visible="1" layerid="ward_05_bbe2d82a_8f06_4e53_9281_670e77768b4a" isInOverview="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer checked="Qt::Checked" drawingOrder="-1" name="ward_04" open="true" showFeatureCount="0">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile visible="1" layerid="ward_04_433cdbcd_1c5e_4855_8bba_fdc8bb909870" isInOverview="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer checked="Qt::Checked" drawingOrder="-1" name="ward_06" open="true" showFeatureCount="0">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile visible="1" layerid="ward_06_dc33fe27_3594_4328_a0a1_bd39b58e3852" isInOverview="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer checked="Qt::Checked" drawingOrder="-1" name="ward_07_new" open="true" showFeatureCount="0">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile visible="1" layerid="ward_07_new_9d8c7a9c_d1b1_4bed_bfa2_5e43ce45842b" isInOverview="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer checked="Qt::Checked" drawingOrder="-1" name="ward_11" open="true" showFeatureCount="0">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile visible="1" layerid="ward_11_0919c20a_9b69_4bc0_bb50_b9b513e4d03b" isInOverview="0"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer checked="Qt::Checked" drawingOrder="-1" name="OpenStreetMap" open="true" showFeatureCount="0">
+      <filegroup hidden="false" open="true">
+        <legendlayerfile visible="1" layerid="OpenStreetMap_71ab80db_2890_4ad9_92c8_ce990fca0191" isInOverview="0"/>
+      </filegroup>
+    </legendlayer>
+  </legend>
+  <mapViewDocks/>
+  <mapViewDocks3D/>
+  <projectlayers>
+    <maplayer autoRefreshTime="0" autoRefreshEnabled="0" hasScaleBasedVisibilityFlag="0" styleCategories="AllStyleCategories" maxScale="0" minScale="1e+08" refreshOnNotifyMessage="" type="raster" refreshOnNotifyEnabled="0">
+      <extent>
+        <xmin>-20037508.34278924390673637</xmin>
+        <ymin>-20037508.34278925508260727</ymin>
+        <xmax>20037508.34278924390673637</xmax>
+        <ymax>20037508.34278924390673637</ymax>
+      </extent>
+      <id>OpenStreetMap_71ab80db_2890_4ad9_92c8_ce990fca0191</id>
+      <datasource>crs=EPSG:3857&amp;format&amp;type=xyz&amp;url=https://tile.openstreetmap.org/%7Bz%7D/%7Bx%7D/%7By%7D.png&amp;zmax=19&amp;zmin=0</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>OpenStreetMap</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=merc +a=6378137 +b=6378137 +lat_ts=0 +lon_0=0 +x_0=0 +y_0=0 +k=1 +units=m +nadgrids=@null +wktext +no_defs</proj4>
+          <srsid>3857</srsid>
+          <srid>3857</srid>
+          <authid>EPSG:3857</authid>
+          <description>WGS 84 / Pseudo-Mercator</description>
+          <projectionacronym>merc</projectionacronym>
+          <ellipsoidacronym></ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider>wms</provider>
+      <noData>
+        <noDataList bandNo="1" useSrcNoData="0"/>
+      </noData>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+      </flags>
+      <customproperties>
+        <property key="identify/format" value="Undefined"/>
+      </customproperties>
+      <pipe>
+        <rasterrenderer band="1" opacity="1" type="singlebandcolordata" alphaBand="-1">
+          <rasterTransparency/>
+          <minMaxOrigin>
+            <limits>None</limits>
+            <extent>WholeRaster</extent>
+            <statAccuracy>Estimated</statAccuracy>
+            <cumulativeCutLower>0.02</cumulativeCutLower>
+            <cumulativeCutUpper>0.98</cumulativeCutUpper>
+            <stdDevFactor>2</stdDevFactor>
+          </minMaxOrigin>
+        </rasterrenderer>
+        <brightnesscontrast brightness="0" contrast="0"/>
+        <huesaturation colorizeOn="0" colorizeRed="255" grayscaleMode="0" colorizeGreen="128" colorizeStrength="100" colorizeBlue="128" saturation="0"/>
+        <rasterresampler maxOversampling="2"/>
+      </pipe>
+      <blendMode>0</blendMode>
+    </maplayer>
+    <maplayer simplifyMaxScale="1" maxScale="0" autoRefreshTime="0" readOnly="0" geometry="Polygon" simplifyAlgorithm="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" refreshOnNotifyMessage="" autoRefreshEnabled="0" simplifyDrawingTol="1" simplifyLocal="1" styleCategories="AllStyleCategories" minScale="1e+08" wkbType="Polygon" simplifyDrawingHints="1" labelsEnabled="0" type="vector">
+      <extent>
+        <xmin>73.19941248457050165</xmin>
+        <ymin>22.29428154493340841</ymin>
+        <xmax>73.21705826271674766</xmax>
+        <ymax>22.3069547564647408</ymax>
+      </extent>
+      <id>ward_01_c6aad25a_ec87_4599_9ae8_3e8205793d75</id>
+      <datasource>./ward_01.geojson|layername=ward_01</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>ward_01</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type>dataset</type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider encoding="UTF-8">ogr</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <dataDependencies/>
+      <legend type="default-vector"/>
+      <expressionfields/>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <auxiliaryLayer/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+      </flags>
+      <renderer-v2 forceraster="0" type="singleSymbol" enableorderby="0" symbollevels="0">
+        <symbols>
+          <symbol clip_to_extent="1" alpha="1" force_rhr="0" name="0" type="fill">
+            <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+              <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <prop k="color" v="213,180,60,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="35,35,35,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" type="QString" value=""/>
+                  <Option name="properties"/>
+                  <Option name="type" type="QString" value="collection"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale/>
+      </renderer-v2>
+      <customproperties/>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerOpacity>1</layerOpacity>
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
+        <activeChecks type="StringList">
+          <Option type="QString" value=""/>
+        </activeChecks>
+        <checkConfiguration/>
+      </geometryOptions>
+      <fieldConfiguration>
+        <field name="ward_no">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="ward_address">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="ward_name">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+      </fieldConfiguration>
+      <aliases>
+        <alias index="0" name="" field="ward_no"/>
+        <alias index="1" name="" field="ward_address"/>
+        <alias index="2" name="" field="ward_name"/>
+      </aliases>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <defaults>
+        <default expression="" applyOnUpdate="0" field="ward_no"/>
+        <default expression="" applyOnUpdate="0" field="ward_address"/>
+        <default expression="" applyOnUpdate="0" field="ward_name"/>
+      </defaults>
+      <constraints>
+        <constraint unique_strength="0" notnull_strength="0" exp_strength="0" constraints="0" field="ward_no"/>
+        <constraint unique_strength="0" notnull_strength="0" exp_strength="0" constraints="0" field="ward_address"/>
+        <constraint unique_strength="0" notnull_strength="0" exp_strength="0" constraints="0" field="ward_name"/>
+      </constraints>
+      <constraintExpressions>
+        <constraint desc="" exp="" field="ward_no"/>
+        <constraint desc="" exp="" field="ward_address"/>
+        <constraint desc="" exp="" field="ward_name"/>
+      </constraintExpressions>
+      <expressionfields/>
+      <attributeactions>
+        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+      </attributeactions>
+      <attributetableconfig sortExpression="" sortOrder="0" actionWidgetStyle="dropDown">
+        <columns/>
+      </attributetableconfig>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <storedexpressions/>
+      <editform tolerant="1"></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <editable/>
+      <labelOnTop/>
+      <widgets/>
+      <previewExpression></previewExpression>
+      <mapTip></mapTip>
+    </maplayer>
+    <maplayer simplifyMaxScale="1" maxScale="0" autoRefreshTime="0" readOnly="0" geometry="Polygon" simplifyAlgorithm="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" refreshOnNotifyMessage="" autoRefreshEnabled="0" simplifyDrawingTol="1" simplifyLocal="1" styleCategories="AllStyleCategories" minScale="1e+08" wkbType="Polygon" simplifyDrawingHints="1" labelsEnabled="0" type="vector">
+      <extent>
+        <xmin>73.19242671181017101</xmin>
+        <ymin>22.30349078035558463</ymin>
+        <xmax>73.24562161048170594</xmax>
+        <ymax>22.35363695953806129</ymax>
+      </extent>
+      <id>ward_02_3b2961b0_58da_446f_8e58_617ccd55d9bc</id>
+      <datasource>./ward_02.geojson|layername=ward_02</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>ward_02</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type>dataset</type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider encoding="UTF-8">ogr</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <dataDependencies/>
+      <legend type="default-vector"/>
+      <expressionfields/>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <auxiliaryLayer/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+      </flags>
+      <renderer-v2 forceraster="0" type="singleSymbol" enableorderby="0" symbollevels="0">
+        <symbols>
+          <symbol clip_to_extent="1" alpha="1" force_rhr="0" name="0" type="fill">
+            <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+              <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <prop k="color" v="133,182,111,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="35,35,35,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" type="QString" value=""/>
+                  <Option name="properties"/>
+                  <Option name="type" type="QString" value="collection"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale/>
+      </renderer-v2>
+      <customproperties/>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerOpacity>1</layerOpacity>
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
+        <activeChecks type="StringList">
+          <Option type="QString" value=""/>
+        </activeChecks>
+        <checkConfiguration/>
+      </geometryOptions>
+      <fieldConfiguration>
+        <field name="ward_no">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="ward_address">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="ward_name">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+      </fieldConfiguration>
+      <aliases>
+        <alias index="0" name="" field="ward_no"/>
+        <alias index="1" name="" field="ward_address"/>
+        <alias index="2" name="" field="ward_name"/>
+      </aliases>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <defaults>
+        <default expression="" applyOnUpdate="0" field="ward_no"/>
+        <default expression="" applyOnUpdate="0" field="ward_address"/>
+        <default expression="" applyOnUpdate="0" field="ward_name"/>
+      </defaults>
+      <constraints>
+        <constraint unique_strength="0" notnull_strength="0" exp_strength="0" constraints="0" field="ward_no"/>
+        <constraint unique_strength="0" notnull_strength="0" exp_strength="0" constraints="0" field="ward_address"/>
+        <constraint unique_strength="0" notnull_strength="0" exp_strength="0" constraints="0" field="ward_name"/>
+      </constraints>
+      <constraintExpressions>
+        <constraint desc="" exp="" field="ward_no"/>
+        <constraint desc="" exp="" field="ward_address"/>
+        <constraint desc="" exp="" field="ward_name"/>
+      </constraintExpressions>
+      <expressionfields/>
+      <attributeactions>
+        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+      </attributeactions>
+      <attributetableconfig sortExpression="" sortOrder="0" actionWidgetStyle="dropDown">
+        <columns/>
+      </attributetableconfig>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <storedexpressions/>
+      <editform tolerant="1"></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <editable/>
+      <labelOnTop/>
+      <widgets/>
+      <previewExpression></previewExpression>
+      <mapTip></mapTip>
+    </maplayer>
+    <maplayer simplifyMaxScale="1" maxScale="0" autoRefreshTime="0" readOnly="0" geometry="Polygon" simplifyAlgorithm="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" refreshOnNotifyMessage="" autoRefreshEnabled="0" simplifyDrawingTol="1" simplifyLocal="1" styleCategories="AllStyleCategories" minScale="1e+08" wkbType="Polygon" simplifyDrawingHints="1" labelsEnabled="0" type="vector">
+      <extent>
+        <xmin>73.21049825940234257</xmin>
+        <ymin>22.26877742948337158</ymin>
+        <xmax>73.2538952044055236</xmax>
+        <ymax>22.3011569330225683</ymax>
+      </extent>
+      <id>ward_03_351d1e50_f756_49d4_89bd_b9768bd68a60</id>
+      <datasource>./ward_03.geojson|layername=ward_03</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>ward_03</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type>dataset</type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider encoding="UTF-8">ogr</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <dataDependencies/>
+      <legend type="default-vector"/>
+      <expressionfields/>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <auxiliaryLayer/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+      </flags>
+      <renderer-v2 forceraster="0" type="singleSymbol" enableorderby="0" symbollevels="0">
+        <symbols>
+          <symbol clip_to_extent="1" alpha="1" force_rhr="0" name="0" type="fill">
+            <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+              <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <prop k="color" v="164,113,88,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="35,35,35,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" type="QString" value=""/>
+                  <Option name="properties"/>
+                  <Option name="type" type="QString" value="collection"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale/>
+      </renderer-v2>
+      <customproperties/>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerOpacity>1</layerOpacity>
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
+        <activeChecks type="StringList">
+          <Option type="QString" value=""/>
+        </activeChecks>
+        <checkConfiguration/>
+      </geometryOptions>
+      <fieldConfiguration>
+        <field name="ward_no">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="ward_address">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="ward_name">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+      </fieldConfiguration>
+      <aliases>
+        <alias index="0" name="" field="ward_no"/>
+        <alias index="1" name="" field="ward_address"/>
+        <alias index="2" name="" field="ward_name"/>
+      </aliases>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <defaults>
+        <default expression="" applyOnUpdate="0" field="ward_no"/>
+        <default expression="" applyOnUpdate="0" field="ward_address"/>
+        <default expression="" applyOnUpdate="0" field="ward_name"/>
+      </defaults>
+      <constraints>
+        <constraint unique_strength="0" notnull_strength="0" exp_strength="0" constraints="0" field="ward_no"/>
+        <constraint unique_strength="0" notnull_strength="0" exp_strength="0" constraints="0" field="ward_address"/>
+        <constraint unique_strength="0" notnull_strength="0" exp_strength="0" constraints="0" field="ward_name"/>
+      </constraints>
+      <constraintExpressions>
+        <constraint desc="" exp="" field="ward_no"/>
+        <constraint desc="" exp="" field="ward_address"/>
+        <constraint desc="" exp="" field="ward_name"/>
+      </constraintExpressions>
+      <expressionfields/>
+      <attributeactions>
+        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+      </attributeactions>
+      <attributetableconfig sortExpression="" sortOrder="0" actionWidgetStyle="dropDown">
+        <columns/>
+      </attributetableconfig>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <storedexpressions/>
+      <editform tolerant="1"></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <editable/>
+      <labelOnTop/>
+      <widgets/>
+      <previewExpression></previewExpression>
+      <mapTip></mapTip>
+    </maplayer>
+    <maplayer simplifyMaxScale="1" maxScale="0" autoRefreshTime="0" readOnly="0" geometry="Polygon" simplifyAlgorithm="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" refreshOnNotifyMessage="" autoRefreshEnabled="0" simplifyDrawingTol="1" simplifyLocal="1" styleCategories="AllStyleCategories" minScale="1e+08" wkbType="Polygon" simplifyDrawingHints="1" labelsEnabled="0" type="vector">
+      <extent>
+        <xmin>73.16190078905268024</xmin>
+        <ymin>22.25568422193413909</ymin>
+        <xmax>73.22993846811340291</xmax>
+        <ymax>22.28485097200160681</ymax>
+      </extent>
+      <id>ward_04_433cdbcd_1c5e_4855_8bba_fdc8bb909870</id>
+      <datasource>./ward_04.geojson|layername=ward_04</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>ward_04</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type>dataset</type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider encoding="UTF-8">ogr</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <dataDependencies/>
+      <legend type="default-vector"/>
+      <expressionfields/>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <auxiliaryLayer/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+      </flags>
+      <renderer-v2 forceraster="0" type="singleSymbol" enableorderby="0" symbollevels="0">
+        <symbols>
+          <symbol clip_to_extent="1" alpha="1" force_rhr="0" name="0" type="fill">
+            <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+              <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <prop k="color" v="141,90,153,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="35,35,35,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" type="QString" value=""/>
+                  <Option name="properties"/>
+                  <Option name="type" type="QString" value="collection"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale/>
+      </renderer-v2>
+      <customproperties/>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerOpacity>1</layerOpacity>
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
+        <activeChecks type="StringList">
+          <Option type="QString" value=""/>
+        </activeChecks>
+        <checkConfiguration/>
+      </geometryOptions>
+      <fieldConfiguration>
+        <field name="ward_no">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="ward_address">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="ward_name">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+      </fieldConfiguration>
+      <aliases>
+        <alias index="0" name="" field="ward_no"/>
+        <alias index="1" name="" field="ward_address"/>
+        <alias index="2" name="" field="ward_name"/>
+      </aliases>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <defaults>
+        <default expression="" applyOnUpdate="0" field="ward_no"/>
+        <default expression="" applyOnUpdate="0" field="ward_address"/>
+        <default expression="" applyOnUpdate="0" field="ward_name"/>
+      </defaults>
+      <constraints>
+        <constraint unique_strength="0" notnull_strength="0" exp_strength="0" constraints="0" field="ward_no"/>
+        <constraint unique_strength="0" notnull_strength="0" exp_strength="0" constraints="0" field="ward_address"/>
+        <constraint unique_strength="0" notnull_strength="0" exp_strength="0" constraints="0" field="ward_name"/>
+      </constraints>
+      <constraintExpressions>
+        <constraint desc="" exp="" field="ward_no"/>
+        <constraint desc="" exp="" field="ward_address"/>
+        <constraint desc="" exp="" field="ward_name"/>
+      </constraintExpressions>
+      <expressionfields/>
+      <attributeactions>
+        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+      </attributeactions>
+      <attributetableconfig sortExpression="" sortOrder="0" actionWidgetStyle="dropDown">
+        <columns/>
+      </attributetableconfig>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <storedexpressions/>
+      <editform tolerant="1"></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <editable/>
+      <labelOnTop/>
+      <widgets/>
+      <previewExpression></previewExpression>
+      <mapTip></mapTip>
+    </maplayer>
+    <maplayer simplifyMaxScale="1" maxScale="0" autoRefreshTime="0" readOnly="0" geometry="Polygon" simplifyAlgorithm="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" refreshOnNotifyMessage="" autoRefreshEnabled="0" simplifyDrawingTol="1" simplifyLocal="1" styleCategories="AllStyleCategories" minScale="1e+08" wkbType="Polygon" simplifyDrawingHints="1" labelsEnabled="0" type="vector">
+      <extent>
+        <xmin>73.17886954885031514</xmin>
+        <ymin>22.28275020701068598</ymin>
+        <xmax>73.21511113327427722</xmax>
+        <ymax>22.30836598657737468</ymax>
+      </extent>
+      <id>ward_05_bbe2d82a_8f06_4e53_9281_670e77768b4a</id>
+      <datasource>./ward_05.geojson|layername=ward_05</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>ward_05</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type>dataset</type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider encoding="UTF-8">ogr</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <dataDependencies/>
+      <legend type="default-vector"/>
+      <expressionfields/>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <auxiliaryLayer/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+      </flags>
+      <renderer-v2 forceraster="0" type="singleSymbol" enableorderby="0" symbollevels="0">
+        <symbols>
+          <symbol clip_to_extent="1" alpha="1" force_rhr="0" name="0" type="fill">
+            <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+              <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <prop k="color" v="243,166,178,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="35,35,35,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" type="QString" value=""/>
+                  <Option name="properties"/>
+                  <Option name="type" type="QString" value="collection"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale/>
+      </renderer-v2>
+      <customproperties/>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerOpacity>1</layerOpacity>
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
+        <activeChecks type="StringList">
+          <Option type="QString" value=""/>
+        </activeChecks>
+        <checkConfiguration/>
+      </geometryOptions>
+      <fieldConfiguration>
+        <field name="ward_no">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="ward_address">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="ward_name">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+      </fieldConfiguration>
+      <aliases>
+        <alias index="0" name="" field="ward_no"/>
+        <alias index="1" name="" field="ward_address"/>
+        <alias index="2" name="" field="ward_name"/>
+      </aliases>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <defaults>
+        <default expression="" applyOnUpdate="0" field="ward_no"/>
+        <default expression="" applyOnUpdate="0" field="ward_address"/>
+        <default expression="" applyOnUpdate="0" field="ward_name"/>
+      </defaults>
+      <constraints>
+        <constraint unique_strength="0" notnull_strength="0" exp_strength="0" constraints="0" field="ward_no"/>
+        <constraint unique_strength="0" notnull_strength="0" exp_strength="0" constraints="0" field="ward_address"/>
+        <constraint unique_strength="0" notnull_strength="0" exp_strength="0" constraints="0" field="ward_name"/>
+      </constraints>
+      <constraintExpressions>
+        <constraint desc="" exp="" field="ward_no"/>
+        <constraint desc="" exp="" field="ward_address"/>
+        <constraint desc="" exp="" field="ward_name"/>
+      </constraintExpressions>
+      <expressionfields/>
+      <attributeactions>
+        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+      </attributeactions>
+      <attributetableconfig sortExpression="" sortOrder="0" actionWidgetStyle="dropDown">
+        <columns/>
+      </attributetableconfig>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <storedexpressions/>
+      <editform tolerant="1"></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <editable/>
+      <labelOnTop/>
+      <widgets/>
+      <previewExpression></previewExpression>
+      <mapTip></mapTip>
+    </maplayer>
+    <maplayer simplifyMaxScale="1" maxScale="0" autoRefreshTime="0" readOnly="0" geometry="Polygon" simplifyAlgorithm="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" refreshOnNotifyMessage="" autoRefreshEnabled="0" simplifyDrawingTol="1" simplifyLocal="1" styleCategories="AllStyleCategories" minScale="1e+08" wkbType="Polygon" simplifyDrawingHints="1" labelsEnabled="0" type="vector">
+      <extent>
+        <xmin>73.12416833915122538</xmin>
+        <ymin>22.24774197493621841</ymin>
+        <xmax>73.18864149438864786</xmax>
+        <ymax>22.30963999889446114</ymax>
+      </extent>
+      <id>ward_06_dc33fe27_3594_4328_a0a1_bd39b58e3852</id>
+      <datasource>./ward_06.geojson|layername=ward_06</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>ward_06</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type>dataset</type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider encoding="UTF-8">ogr</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <dataDependencies/>
+      <legend type="default-vector"/>
+      <expressionfields/>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <auxiliaryLayer/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+      </flags>
+      <renderer-v2 forceraster="0" type="singleSymbol" enableorderby="0" symbollevels="0">
+        <symbols>
+          <symbol clip_to_extent="1" alpha="1" force_rhr="0" name="0" type="fill">
+            <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+              <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <prop k="color" v="232,113,141,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="35,35,35,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" type="QString" value=""/>
+                  <Option name="properties"/>
+                  <Option name="type" type="QString" value="collection"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale/>
+      </renderer-v2>
+      <customproperties/>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerOpacity>1</layerOpacity>
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
+        <activeChecks type="StringList">
+          <Option type="QString" value=""/>
+        </activeChecks>
+        <checkConfiguration/>
+      </geometryOptions>
+      <fieldConfiguration>
+        <field name="ward_no">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="ward_address">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="ward_name">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+      </fieldConfiguration>
+      <aliases>
+        <alias index="0" name="" field="ward_no"/>
+        <alias index="1" name="" field="ward_address"/>
+        <alias index="2" name="" field="ward_name"/>
+      </aliases>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <defaults>
+        <default expression="" applyOnUpdate="0" field="ward_no"/>
+        <default expression="" applyOnUpdate="0" field="ward_address"/>
+        <default expression="" applyOnUpdate="0" field="ward_name"/>
+      </defaults>
+      <constraints>
+        <constraint unique_strength="0" notnull_strength="0" exp_strength="0" constraints="0" field="ward_no"/>
+        <constraint unique_strength="0" notnull_strength="0" exp_strength="0" constraints="0" field="ward_address"/>
+        <constraint unique_strength="0" notnull_strength="0" exp_strength="0" constraints="0" field="ward_name"/>
+      </constraints>
+      <constraintExpressions>
+        <constraint desc="" exp="" field="ward_no"/>
+        <constraint desc="" exp="" field="ward_address"/>
+        <constraint desc="" exp="" field="ward_name"/>
+      </constraintExpressions>
+      <expressionfields/>
+      <attributeactions>
+        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+      </attributeactions>
+      <attributetableconfig sortExpression="" sortOrder="0" actionWidgetStyle="dropDown">
+        <columns/>
+      </attributetableconfig>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <storedexpressions/>
+      <editform tolerant="1"></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <editable/>
+      <labelOnTop/>
+      <widgets/>
+      <previewExpression></previewExpression>
+      <mapTip></mapTip>
+    </maplayer>
+    <maplayer simplifyMaxScale="1" maxScale="0" autoRefreshTime="0" readOnly="0" geometry="Polygon" simplifyAlgorithm="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" refreshOnNotifyMessage="" autoRefreshEnabled="0" simplifyDrawingTol="1" simplifyLocal="1" styleCategories="AllStyleCategories" minScale="1e+08" wkbType="Polygon" simplifyDrawingHints="1" labelsEnabled="0" type="vector">
+      <extent>
+        <xmin>73.14134489112937842</xmin>
+        <ymin>22.30825309045406968</ymin>
+        <xmax>73.21785723747944985</xmax>
+        <ymax>22.3813277427595736</ymax>
+      </extent>
+      <id>ward_07_new_9d8c7a9c_d1b1_4bed_bfa2_5e43ce45842b</id>
+      <datasource>./ward_07_new.geojson|layername=ward_07_new</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>ward_07_new</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>0</srsid>
+          <srid>0</srid>
+          <authid>OGC:CRS84</authid>
+          <description>WGS 84 (CRS84)</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type>dataset</type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider encoding="UTF-8">ogr</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <dataDependencies/>
+      <legend type="default-vector"/>
+      <expressionfields/>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <auxiliaryLayer/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+      </flags>
+      <renderer-v2 forceraster="0" type="singleSymbol" enableorderby="0" symbollevels="0">
+        <symbols>
+          <symbol clip_to_extent="1" alpha="1" force_rhr="0" name="0" type="fill">
+            <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+              <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <prop k="color" v="145,82,45,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="35,35,35,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" type="QString" value=""/>
+                  <Option name="properties"/>
+                  <Option name="type" type="QString" value="collection"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale/>
+      </renderer-v2>
+      <customproperties/>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerOpacity>1</layerOpacity>
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
+        <activeChecks type="StringList">
+          <Option type="QString" value=""/>
+        </activeChecks>
+        <checkConfiguration/>
+      </geometryOptions>
+      <fieldConfiguration/>
+      <aliases/>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <defaults/>
+      <constraints/>
+      <constraintExpressions/>
+      <expressionfields/>
+      <attributeactions>
+        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+      </attributeactions>
+      <attributetableconfig sortExpression="" sortOrder="0" actionWidgetStyle="dropDown">
+        <columns/>
+      </attributetableconfig>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <storedexpressions/>
+      <editform tolerant="1"></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <editable/>
+      <labelOnTop/>
+      <widgets/>
+      <previewExpression></previewExpression>
+      <mapTip></mapTip>
+    </maplayer>
+    <maplayer simplifyMaxScale="1" maxScale="0" autoRefreshTime="0" readOnly="0" geometry="Polygon" simplifyAlgorithm="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" refreshOnNotifyMessage="" autoRefreshEnabled="0" simplifyDrawingTol="1" simplifyLocal="1" styleCategories="AllStyleCategories" minScale="1e+08" wkbType="Polygon" simplifyDrawingHints="1" labelsEnabled="0" type="vector">
+      <extent>
+        <xmin>73.18896010749469383</xmin>
+        <ymin>22.30350654959432788</ymin>
+        <xmax>73.21381242774346276</xmax>
+        <ymax>22.32737986293820143</ymax>
+      </extent>
+      <id>ward_08_6e112f71_f87f_42a1_9b67_cb0c43766240</id>
+      <datasource>./ward_08.geojson|layername=ward_08</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>ward_08</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type>dataset</type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider encoding="UTF-8">ogr</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <dataDependencies/>
+      <legend type="default-vector"/>
+      <expressionfields/>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <auxiliaryLayer/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+      </flags>
+      <renderer-v2 forceraster="0" type="singleSymbol" enableorderby="0" symbollevels="0">
+        <symbols>
+          <symbol clip_to_extent="1" alpha="1" force_rhr="0" name="0" type="fill">
+            <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+              <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <prop k="color" v="114,155,111,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="35,35,35,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" type="QString" value=""/>
+                  <Option name="properties"/>
+                  <Option name="type" type="QString" value="collection"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale/>
+      </renderer-v2>
+      <customproperties/>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerOpacity>1</layerOpacity>
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
+        <activeChecks type="StringList">
+          <Option type="QString" value=""/>
+        </activeChecks>
+        <checkConfiguration/>
+      </geometryOptions>
+      <fieldConfiguration/>
+      <aliases/>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <defaults/>
+      <constraints/>
+      <constraintExpressions/>
+      <expressionfields/>
+      <attributeactions>
+        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+      </attributeactions>
+      <attributetableconfig sortExpression="" sortOrder="0" actionWidgetStyle="dropDown">
+        <columns/>
+      </attributetableconfig>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <storedexpressions/>
+      <editform tolerant="1"></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <editable/>
+      <labelOnTop/>
+      <widgets/>
+      <previewExpression></previewExpression>
+      <mapTip></mapTip>
+    </maplayer>
+    <maplayer simplifyMaxScale="1" maxScale="0" autoRefreshTime="0" readOnly="0" geometry="Polygon" simplifyAlgorithm="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" refreshOnNotifyMessage="" autoRefreshEnabled="0" simplifyDrawingTol="1" simplifyLocal="1" styleCategories="AllStyleCategories" minScale="1e+08" wkbType="Polygon" simplifyDrawingHints="1" labelsEnabled="0" type="vector">
+      <extent>
+        <xmin>73.21396749192440723</xmin>
+        <ymin>22.29689923856369305</ymin>
+        <xmax>73.25585059000887611</xmax>
+        <ymax>22.33848797752506954</ymax>
+      </extent>
+      <id>ward_09_248eebe1_eea1_4724_a097_e198dbc8760a</id>
+      <datasource>./ward_09.geojson|layername=ward_09</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>ward_09</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type>dataset</type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider encoding="UTF-8">ogr</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <dataDependencies/>
+      <legend type="default-vector"/>
+      <expressionfields/>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <auxiliaryLayer/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+      </flags>
+      <renderer-v2 forceraster="0" type="singleSymbol" enableorderby="0" symbollevels="0">
+        <symbols>
+          <symbol clip_to_extent="1" alpha="1" force_rhr="0" name="0" type="fill">
+            <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+              <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <prop k="color" v="190,207,80,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="35,35,35,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" type="QString" value=""/>
+                  <Option name="properties"/>
+                  <Option name="type" type="QString" value="collection"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale/>
+      </renderer-v2>
+      <customproperties/>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerOpacity>1</layerOpacity>
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
+        <activeChecks type="StringList">
+          <Option type="QString" value=""/>
+        </activeChecks>
+        <checkConfiguration/>
+      </geometryOptions>
+      <fieldConfiguration>
+        <field name="ward_no">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="ward_name">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+      </fieldConfiguration>
+      <aliases>
+        <alias index="0" name="" field="ward_no"/>
+        <alias index="1" name="" field="ward_name"/>
+      </aliases>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <defaults>
+        <default expression="" applyOnUpdate="0" field="ward_no"/>
+        <default expression="" applyOnUpdate="0" field="ward_name"/>
+      </defaults>
+      <constraints>
+        <constraint unique_strength="0" notnull_strength="0" exp_strength="0" constraints="0" field="ward_no"/>
+        <constraint unique_strength="0" notnull_strength="0" exp_strength="0" constraints="0" field="ward_name"/>
+      </constraints>
+      <constraintExpressions>
+        <constraint desc="" exp="" field="ward_no"/>
+        <constraint desc="" exp="" field="ward_name"/>
+      </constraintExpressions>
+      <expressionfields/>
+      <attributeactions>
+        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+      </attributeactions>
+      <attributetableconfig sortExpression="" sortOrder="0" actionWidgetStyle="dropDown">
+        <columns/>
+      </attributetableconfig>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <storedexpressions/>
+      <editform tolerant="1"></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <editable/>
+      <labelOnTop/>
+      <widgets/>
+      <previewExpression></previewExpression>
+      <mapTip></mapTip>
+    </maplayer>
+    <maplayer simplifyMaxScale="1" maxScale="0" autoRefreshTime="0" readOnly="0" geometry="Polygon" simplifyAlgorithm="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" refreshOnNotifyMessage="" autoRefreshEnabled="0" simplifyDrawingTol="1" simplifyLocal="1" styleCategories="AllStyleCategories" minScale="1e+08" wkbType="Polygon" simplifyDrawingHints="1" labelsEnabled="0" type="vector">
+      <extent>
+        <xmin>73.13176155963219571</xmin>
+        <ymin>22.30655930801639286</ymin>
+        <xmax>73.18020384499060071</xmax>
+        <ymax>22.34401527013840649</ymax>
+      </extent>
+      <id>ward_10_777a4802_77b4_4994_9513_ab2e19d132f7</id>
+      <datasource>./ward_10.geojson|layername=ward_10</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>ward_10</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type>dataset</type>
+        <title></title>
+        <abstract></abstract>
+        <contact>
+          <name></name>
+          <organization></organization>
+          <position></position>
+          <voice></voice>
+          <fax></fax>
+          <email></email>
+          <role></role>
+        </contact>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent>
+          <spatial miny="0" maxy="0" minx="0" minz="0" maxx="0" maxz="0" dimensions="2" crs=""/>
+          <temporal>
+            <period>
+              <start></start>
+              <end></end>
+            </period>
+          </temporal>
+        </extent>
+      </resourceMetadata>
+      <provider encoding="UTF-8">ogr</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <dataDependencies/>
+      <legend type="default-vector"/>
+      <expressionfields/>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <auxiliaryLayer/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+      </flags>
+      <renderer-v2 forceraster="0" type="singleSymbol" enableorderby="0" symbollevels="0">
+        <symbols>
+          <symbol clip_to_extent="1" alpha="1" force_rhr="0" name="0" type="fill">
+            <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+              <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <prop k="color" v="225,7,47,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="35,35,35,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" type="QString" value=""/>
+                  <Option name="properties"/>
+                  <Option name="type" type="QString" value="collection"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale/>
+      </renderer-v2>
+      <customproperties>
+        <property key="embeddedWidgets/count" value="0"/>
+        <property key="variableNames"/>
+        <property key="variableValues"/>
+      </customproperties>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerOpacity>1</layerOpacity>
+      <SingleCategoryDiagramRenderer diagramType="Histogram" attributeLegend="1">
+        <DiagramCategory backgroundColor="#ffffff" lineSizeType="MM" scaleDependency="Area" labelPlacementMethod="XHeight" diagramOrientation="Up" backgroundAlpha="255" barWidth="5" sizeType="MM" scaleBasedVisibility="0" sizeScale="3x:0,0,0,0,0,0" height="15" penWidth="0" width="15" penColor="#000000" opacity="1" lineSizeScale="3x:0,0,0,0,0,0" minimumSize="0" enabled="0" minScaleDenominator="0" maxScaleDenominator="1e+08" rotationOffset="270" penAlpha="255">
+          <fontProperties description="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute color="#000000" label="" field=""/>
+        </DiagramCategory>
+      </SingleCategoryDiagramRenderer>
+      <DiagramLayerSettings priority="0" zIndex="0" placement="1" showAll="1" dist="0" linePlacementFlags="18" obstacle="0">
+        <properties>
+          <Option type="Map">
+            <Option name="name" type="QString" value=""/>
+            <Option name="properties"/>
+            <Option name="type" type="QString" value="collection"/>
+          </Option>
+        </properties>
+      </DiagramLayerSettings>
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
+        <activeChecks/>
+        <checkConfiguration type="Map">
+          <Option name="QgsGeometryGapCheck" type="Map">
+            <Option name="allowedGapsBuffer" type="double" value="0"/>
+            <Option name="allowedGapsEnabled" type="bool" value="false"/>
+            <Option name="allowedGapsLayer" type="QString" value=""/>
+          </Option>
+        </checkConfiguration>
+      </geometryOptions>
+      <fieldConfiguration>
+        <field name="ward_no">
+          <editWidget type="Range">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="name">
+          <editWidget type="TextEdit">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+      </fieldConfiguration>
+      <aliases>
+        <alias index="0" name="" field="ward_no"/>
+        <alias index="1" name="" field="name"/>
+      </aliases>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <defaults>
+        <default expression="" applyOnUpdate="0" field="ward_no"/>
+        <default expression="" applyOnUpdate="0" field="name"/>
+      </defaults>
+      <constraints>
+        <constraint unique_strength="0" notnull_strength="0" exp_strength="0" constraints="0" field="ward_no"/>
+        <constraint unique_strength="0" notnull_strength="0" exp_strength="0" constraints="0" field="name"/>
+      </constraints>
+      <constraintExpressions>
+        <constraint desc="" exp="" field="ward_no"/>
+        <constraint desc="" exp="" field="name"/>
+      </constraintExpressions>
+      <expressionfields/>
+      <attributeactions>
+        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+      </attributeactions>
+      <attributetableconfig sortExpression="" sortOrder="0" actionWidgetStyle="dropDown">
+        <columns>
+          <column hidden="0" width="-1" name="ward_no" type="field"/>
+          <column hidden="0" width="-1" name="name" type="field"/>
+          <column hidden="1" width="-1" type="actions"/>
+        </columns>
+      </attributetableconfig>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <storedexpressions/>
+      <editform tolerant="1"></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
+"""
+QGIS forms can have a Python function that is called when the form is
+opened.
+
+Use this function to add extra logic to your forms.
+
+Enter the name of the function in the "Python Init function"
+field.
+An example follows:
+"""
+from qgis.PyQt.QtWidgets import QWidget
+
+def my_form_open(dialog, layer, feature):
+	geom = feature.geometry()
+	control = dialog.findChild(QWidget, "MyLineEdit")
+]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <editable>
+        <field name="name" editable="1"/>
+        <field name="ward_no" editable="1"/>
+      </editable>
+      <labelOnTop>
+        <field labelOnTop="0" name="name"/>
+        <field labelOnTop="0" name="ward_no"/>
+      </labelOnTop>
+      <widgets/>
+      <previewExpression>name</previewExpression>
+      <mapTip></mapTip>
+    </maplayer>
+    <maplayer simplifyMaxScale="1" maxScale="0" autoRefreshTime="0" readOnly="0" geometry="Polygon" simplifyAlgorithm="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" refreshOnNotifyMessage="" autoRefreshEnabled="0" simplifyDrawingTol="1" simplifyLocal="1" styleCategories="AllStyleCategories" minScale="1e+08" wkbType="Polygon" simplifyDrawingHints="1" labelsEnabled="0" type="vector">
+      <extent>
+        <xmin>73.11359243933905816</xmin>
+        <ymin>22.29059027113783742</ymin>
+        <xmax>73.16623096242805957</xmax>
+        <ymax>22.33452885196054538</ymax>
+      </extent>
+      <id>ward_11_0919c20a_9b69_4bc0_bb50_b9b513e4d03b</id>
+      <datasource>./ward_11.geojson|layername=ward_11</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>ward_11</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type>dataset</type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider encoding="UTF-8">ogr</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <dataDependencies/>
+      <legend type="default-vector"/>
+      <expressionfields/>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <auxiliaryLayer/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+      </flags>
+      <renderer-v2 forceraster="0" type="singleSymbol" enableorderby="0" symbollevels="0">
+        <symbols>
+          <symbol clip_to_extent="1" alpha="1" force_rhr="0" name="0" type="fill">
+            <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+              <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <prop k="color" v="183,72,75,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="35,35,35,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" type="QString" value=""/>
+                  <Option name="properties"/>
+                  <Option name="type" type="QString" value="collection"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale/>
+      </renderer-v2>
+      <customproperties/>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerOpacity>1</layerOpacity>
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
+        <activeChecks type="StringList">
+          <Option type="QString" value=""/>
+        </activeChecks>
+        <checkConfiguration/>
+      </geometryOptions>
+      <fieldConfiguration>
+        <field name="ward_no">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="name">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+      </fieldConfiguration>
+      <aliases>
+        <alias index="0" name="" field="ward_no"/>
+        <alias index="1" name="" field="name"/>
+      </aliases>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <defaults>
+        <default expression="" applyOnUpdate="0" field="ward_no"/>
+        <default expression="" applyOnUpdate="0" field="name"/>
+      </defaults>
+      <constraints>
+        <constraint unique_strength="0" notnull_strength="0" exp_strength="0" constraints="0" field="ward_no"/>
+        <constraint unique_strength="0" notnull_strength="0" exp_strength="0" constraints="0" field="name"/>
+      </constraints>
+      <constraintExpressions>
+        <constraint desc="" exp="" field="ward_no"/>
+        <constraint desc="" exp="" field="name"/>
+      </constraintExpressions>
+      <expressionfields/>
+      <attributeactions>
+        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+      </attributeactions>
+      <attributetableconfig sortExpression="" sortOrder="0" actionWidgetStyle="dropDown">
+        <columns/>
+      </attributetableconfig>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <storedexpressions/>
+      <editform tolerant="1"></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <editable/>
+      <labelOnTop/>
+      <widgets/>
+      <previewExpression></previewExpression>
+      <mapTip></mapTip>
+    </maplayer>
+    <maplayer simplifyMaxScale="1" maxScale="0" autoRefreshTime="0" readOnly="0" geometry="Polygon" simplifyAlgorithm="0" refreshOnNotifyEnabled="0" hasScaleBasedVisibilityFlag="0" refreshOnNotifyMessage="" autoRefreshEnabled="0" simplifyDrawingTol="1" simplifyLocal="1" styleCategories="AllStyleCategories" minScale="1e+08" wkbType="Polygon" simplifyDrawingHints="1" labelsEnabled="0" type="vector">
+      <extent>
+        <xmin>73.16531622632821552</xmin>
+        <ymin>22.21507846765805638</ymin>
+        <xmax>73.26962239183883696</xmax>
+        <ymax>22.29169538978060316</ymax>
+      </extent>
+      <id>ward_12_5fc434b5_eaf8_4e51_99b8_690e80996d42</id>
+      <datasource>./ward_12.geojson|layername=ward_12</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>ward_12</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
+          <srsid>3452</srsid>
+          <srid>4326</srid>
+          <authid>EPSG:4326</authid>
+          <description>WGS 84</description>
+          <projectionacronym>longlat</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>true</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type>dataset</type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider encoding="UTF-8">ogr</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <dataDependencies/>
+      <legend type="default-vector"/>
+      <expressionfields/>
+      <map-layer-style-manager current="default">
+        <map-layer-style name="default"/>
+      </map-layer-style-manager>
+      <auxiliaryLayer/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+      </flags>
+      <renderer-v2 forceraster="0" type="singleSymbol" enableorderby="0" symbollevels="0">
+        <symbols>
+          <symbol clip_to_extent="1" alpha="1" force_rhr="0" name="0" type="fill">
+            <layer enabled="1" pass="0" locked="0" class="SimpleFill">
+              <prop k="border_width_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <prop k="color" v="145,82,45,255"/>
+              <prop k="joinstyle" v="bevel"/>
+              <prop k="offset" v="0,0"/>
+              <prop k="offset_map_unit_scale" v="3x:0,0,0,0,0,0"/>
+              <prop k="offset_unit" v="MM"/>
+              <prop k="outline_color" v="35,35,35,255"/>
+              <prop k="outline_style" v="solid"/>
+              <prop k="outline_width" v="0.26"/>
+              <prop k="outline_width_unit" v="MM"/>
+              <prop k="style" v="solid"/>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" type="QString" value=""/>
+                  <Option name="properties"/>
+                  <Option name="type" type="QString" value="collection"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale/>
+      </renderer-v2>
+      <customproperties/>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerOpacity>1</layerOpacity>
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
+        <activeChecks type="StringList">
+          <Option type="QString" value=""/>
+        </activeChecks>
+        <checkConfiguration/>
+      </geometryOptions>
+      <fieldConfiguration>
+        <field name="ward_no">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="name">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+      </fieldConfiguration>
+      <aliases>
+        <alias index="0" name="" field="ward_no"/>
+        <alias index="1" name="" field="name"/>
+      </aliases>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <defaults>
+        <default expression="" applyOnUpdate="0" field="ward_no"/>
+        <default expression="" applyOnUpdate="0" field="name"/>
+      </defaults>
+      <constraints>
+        <constraint unique_strength="0" notnull_strength="0" exp_strength="0" constraints="0" field="ward_no"/>
+        <constraint unique_strength="0" notnull_strength="0" exp_strength="0" constraints="0" field="name"/>
+      </constraints>
+      <constraintExpressions>
+        <constraint desc="" exp="" field="ward_no"/>
+        <constraint desc="" exp="" field="name"/>
+      </constraintExpressions>
+      <expressionfields/>
+      <attributeactions>
+        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+      </attributeactions>
+      <attributetableconfig sortExpression="" sortOrder="0" actionWidgetStyle="dropDown">
+        <columns/>
+      </attributetableconfig>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <storedexpressions/>
+      <editform tolerant="1"></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <editable/>
+      <labelOnTop/>
+      <widgets/>
+      <previewExpression></previewExpression>
+      <mapTip></mapTip>
+    </maplayer>
+  </projectlayers>
+  <layerorder>
+    <layer id="OpenStreetMap_71ab80db_2890_4ad9_92c8_ce990fca0191"/>
+    <layer id="ward_09_248eebe1_eea1_4724_a097_e198dbc8760a"/>
+    <layer id="ward_10_777a4802_77b4_4994_9513_ab2e19d132f7"/>
+    <layer id="ward_12_5fc434b5_eaf8_4e51_99b8_690e80996d42"/>
+    <layer id="ward_02_3b2961b0_58da_446f_8e58_617ccd55d9bc"/>
+    <layer id="ward_03_351d1e50_f756_49d4_89bd_b9768bd68a60"/>
+    <layer id="ward_01_c6aad25a_ec87_4599_9ae8_3e8205793d75"/>
+    <layer id="ward_08_6e112f71_f87f_42a1_9b67_cb0c43766240"/>
+    <layer id="ward_05_bbe2d82a_8f06_4e53_9281_670e77768b4a"/>
+    <layer id="ward_04_433cdbcd_1c5e_4855_8bba_fdc8bb909870"/>
+    <layer id="ward_06_dc33fe27_3594_4328_a0a1_bd39b58e3852"/>
+    <layer id="ward_11_0919c20a_9b69_4bc0_bb50_b9b513e4d03b"/>
+    <layer id="ward_07_new_9d8c7a9c_d1b1_4bed_bfa2_5e43ce45842b"/>
+  </layerorder>
+  <properties>
+    <Gui>
+      <CanvasColorBluePart type="int">255</CanvasColorBluePart>
+      <CanvasColorGreenPart type="int">255</CanvasColorGreenPart>
+      <CanvasColorRedPart type="int">255</CanvasColorRedPart>
+      <SelectionColorAlphaPart type="int">255</SelectionColorAlphaPart>
+      <SelectionColorBluePart type="int">0</SelectionColorBluePart>
+      <SelectionColorGreenPart type="int">255</SelectionColorGreenPart>
+      <SelectionColorRedPart type="int">255</SelectionColorRedPart>
+    </Gui>
+    <Legend>
+      <filterByMap type="bool">false</filterByMap>
+    </Legend>
+    <Measure>
+      <Ellipsoid type="QString">WGS84</Ellipsoid>
+    </Measure>
+    <Measurement>
+      <AreaUnits type="QString"></AreaUnits>
+      <DistanceUnits type="QString"></DistanceUnits>
+    </Measurement>
+    <PAL>
+      <CandidatesLine type="int">50</CandidatesLine>
+      <CandidatesPoint type="int">16</CandidatesPoint>
+      <CandidatesPolygon type="int">30</CandidatesPolygon>
+      <DrawRectOnly type="bool">false</DrawRectOnly>
+      <DrawUnplaced type="bool">false</DrawUnplaced>
+      <SearchMethod type="int">0</SearchMethod>
+      <ShowingAllLabels type="bool">false</ShowingAllLabels>
+      <ShowingCandidates type="bool">false</ShowingCandidates>
+      <ShowingPartialsLabels type="bool">true</ShowingPartialsLabels>
+      <TextFormat type="int">0</TextFormat>
+      <UnplacedColor type="QString">255,0,0,255</UnplacedColor>
+    </PAL>
+    <Paths>
+      <Absolute type="bool">false</Absolute>
+    </Paths>
+    <PositionPrecision>
+      <Automatic type="bool">true</Automatic>
+      <DecimalPlaces type="int">2</DecimalPlaces>
+    </PositionPrecision>
+    <SpatialRefSys>
+      <ProjectionsEnabled type="int">1</ProjectionsEnabled>
+    </SpatialRefSys>
+  </properties>
+  <visibility-presets/>
+  <transformContext/>
+  <projectMetadata>
+    <identifier></identifier>
+    <parentidentifier></parentidentifier>
+    <language></language>
+    <type></type>
+    <title></title>
+    <abstract></abstract>
+    <links/>
+    <author>Vivek Shrinivasan</author>
+    <creation>2020-01-07T10:08:19</creation>
+  </projectMetadata>
+  <Annotations/>
+  <Layouts/>
+  <Bookmarks/>
+  <ProjectViewSettings UseProjectScales="0">
+    <Scales/>
+  </ProjectViewSettings>
+</qgis>
